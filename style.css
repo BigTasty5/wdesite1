@@ -1,5 +1,7 @@
     body {
-        background-image:url(http://planetdestiny.com/wp-content/uploads/2014/10/dark-below-expan.jpg)
+        background-image:url(http://static.gosunoob.com/img/1/2014/10/Destiny-expansion-The-Dark-Below.jpg);
+         background-repeat: no-repeat;
+       background-color:#00ffbf;
       }
 
       h1{  text-align: center;
@@ -12,4 +14,3 @@
       }
       p{text-align: center;
       }
-      
